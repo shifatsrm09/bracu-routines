@@ -1,0 +1,12 @@
+https://connect.bracu.ac.bd/api/mds/v1/portfolios
+{ id: 50177, studentId: "24101128", fullName: "Dewan Sifat Rahman", … }
+Authorization: Bearer
+
+
+https://connect.bracu.ac.bd/api/reg/v1/courses/50177/current-semester
+
+	
+0	{ courseId: 586, courseCode: "CSE321", courseTitle: "OPERATING SYSTEMS", … }
+1	{ courseId: 1015, courseCode: "CSE330", courseTitle: "NUMERICAL METHODS", … }
+2	{ courseId: 1122, courseCode: "CSE260", courseTitle: "DIGITAL LOGIC DESIGN", … }
+3	{ courseId: 1146, courseCode: "CSE331", courseTitle: "AUTOMATA AND COMPUTABILITY", … }
